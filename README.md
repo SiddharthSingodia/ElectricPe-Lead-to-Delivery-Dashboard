@@ -2,5 +2,4 @@
 
 A quick visual of the dashboard:
 
-![Dashboard screenshot](/dashboard.png)
-
+![Dashboard Screenshot](Dashboard.png)
